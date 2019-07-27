@@ -1,9 +1,9 @@
-{
-	"editor.formatOnSave": true,
-	"editor.tabSize": 4,
-	"json.format.enable": true,
-	"javascript.format.insertSpaceAfterCommaDelimiter": true,
-	"[javascript]": {
-		"editor.tabSize": 4
-	}
-}
+// {
+// 	"editor.formatOnSave": true,
+// 	"editor.tabSize": 4,
+// 	"json.format.enable": true,
+// 	"javascript.format.insertSpaceAfterCommaDelimiter": true,
+// 	"[javascript]": {
+// 		"editor.tabSize": 4
+// 	}
+// }
