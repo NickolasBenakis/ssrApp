@@ -1,5 +1,9 @@
+import Image from "../components/image";
+
 const Profile = () => {
 	let styles = {
+		fontFamily: "helvetica",
+		fontWeight: "normal",
 		margin: "auto 0px",
 		padding: "10px",
 		border: "1px solid black",
@@ -8,9 +12,10 @@ const Profile = () => {
 
 	return (
 		<div style={styles}>
-			<h1>
+			<h2>
 				My name is <strong>Nick</strong>
-			</h1>
+			</h2>
+			<Image />
 			<p>I am a highly motivated Frontend developer</p>
 			<p>My projects are: </p>
 			<ul>
