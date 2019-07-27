@@ -1,13 +1,5 @@
 import Link from "next/link";
-
-let styles = {
-	fontFamily: "helvetica",
-	fontWeight: "normal",
-	margin: "auto 0px",
-	padding: "10px",
-	border: "1px solid black",
-	background: "#FFFF"
-};
+import styles from "../styling/styles";
 
 const index = () => (
 	<div style={styles}>

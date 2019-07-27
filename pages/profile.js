@@ -1,15 +1,7 @@
 import Image from "../components/image";
+import styles from "../styling/styles";
 
 const Profile = () => {
-	let styles = {
-		fontFamily: "helvetica",
-		fontWeight: "normal",
-		margin: "auto 0px",
-		padding: "10px",
-		border: "1px solid black",
-		background: "#FFFF"
-	};
-
 	return (
 		<div style={styles}>
 			<h2>
